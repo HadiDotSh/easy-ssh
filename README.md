@@ -30,4 +30,4 @@ remove ${server_name}   Remove a server
 help                    Show brief help
 ```
 
-<p>A voir aussi : Easy SCP (https://github.com/hadidotsh/easy-scp)</p>
+<p>See also: Easy SCP (https://github.com/hadidotsh/easy-scp)</p>
